@@ -1,0 +1,70 @@
+Please scroll down through the instructions:
+
+This experiment consists of several experiment blocks.
+Each block consists of three different phases:
+- STUDY PHASE
+- MATH PHASE
+- TEST PHASE
+There is a small break following the math phase,
+and you may start study and test phases whenever you are ready.
+
+STUDY PHASE INSTRUCTIONS
+In the study phase several sequences of images will be displayed.
+Sequence structure:
+EMOJI -> BLANK -> CELEBRITY FACE
+
+All emoji and celebrity images have the same duration of display.
+The blank image duration may be one of two: short or long.
+Your goal is to remember which celebrity image and which time duration
+were associated to an emoji.
+
+The controller has buttons "L" for LEFT and "R" for RIGHT.
+On screen the labels "ORGANIC" or "INORGANIC" will appear left or right.
+For each sequence you should press the key that corresponds to the category
+of the emoji.
+i.e. if the EMOJI is something that is alive or you could eat, and the 
+label ORGANIC appears left on screen, you should press "L" for LEFT.
+if the EMOJI is not alive or is a tool you could use, and the label
+INORGANIC appears right on screen, you should press "R" for RIGHT.
+
+Pay attention, since either label could be left or right on screen.
+This would remain the same throughout the experiment.
+
+You may only press the button with your answer 
+when the labels appear on screen.
+
+
+MATH PHASE INSTRUCTIONS
+Simple arithmetic math problems will be displayed on screen.
+Using the keyboard instead of the controller, you should press
+"T" for TRUE and "F" for FALSE based on whether the answer being
+displayed is correct. Answer as many of these math problems as you can.
+
+
+TEST PHASE INSTRUCTIONS
+Similarly to the study phase, you will be presented with several
+sequences. This time the goal will be to remember whether the blank
+image duration following the emoji was the same or different as it
+was during the study phase. After this, you will also have to choose
+whether the celebrity image displayed with the emoji was the same
+or different as it was during the study phase. 
+Both could be the same, both could be different, or only one of
+either may have changed.
+
+The labels "SAME" and "DIFFERENT" will appear left or right on screen.
+On top of the screen you will see labels for INTERVAL and FACE.
+When the labels appear you should press "L" for LEFT or "R" for RIGHT
+indicating your answer on the time interval. After a few seconds,
+the labels will appear again and you should press the button with
+your answer on the celebrity face.
+
+Pay attention, since either label could be left or right on screen.
+This would remain the same throughout the experiment.
+
+You may only press the button with your answer 
+when the labels appear on screen.
+
+If you have any questions, please ask the researcher now.
+
+*** Press any key to see a visual representation of the instructions. ***
+

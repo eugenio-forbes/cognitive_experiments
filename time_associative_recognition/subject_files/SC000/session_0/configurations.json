@@ -1,0 +1,1 @@
+{"orient_duration": 3000, "image_duration": 3000, "short_blank_duration": 3000, "long_blank_duration": 6000, "intertrial_interval": 3000, "preresponse_pause": 2000, "allowed_response_time": 4000, "standard_delay": 20000, "deviant_delay": 10000, "p_standard_delay": 0.8, "left_key": "F", "right_key": "H"}

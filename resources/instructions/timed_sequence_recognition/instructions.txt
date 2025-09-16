@@ -1,0 +1,29 @@
+Please scroll down through the instructions:
+
+1) There are several rounds. In each round, 
+you will be shown four different sequences. 
+
+2) Structure of each sequence:
+Emoji -> Celebrity Face #1 -> Blank -> Celebrity Face #2
+
+3) From the four sequences, a pair of them shares the same two celebrity images,
+the other pair shares the images of two different celebrities.
+The sequence of each pair is different from the other in the duration of the
+blank image that separates the display of the two celebrities.
+Each sequence is identified by a different emoji.
+
+4) You will have to remember which emoji identifies each sequence, paying
+attention to the time interval of the blank image that separates the two
+celebrities.
+
+5) Please do not count the passing of time, tap, or use any other aid for this matter.
+
+6) After the four sequences are presented, there will be a break of several seconds.
+
+7) After the break, one of the four sequences will be shown again without its emoji.
+
+8) You will be asked to choose the emoji that identifies that sequence.
+
+
+*** Press any key to see a visual representation of the instructions. ***
+

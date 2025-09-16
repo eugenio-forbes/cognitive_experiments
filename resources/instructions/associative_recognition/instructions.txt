@@ -1,0 +1,82 @@
+Please scroll down through the instructions:
+
+You are about to start the practice block for the experiment.
+If you have questions about the instructions at any time,
+please ask the researcher.
+
+The experiment is divided into several blocks.
+Each block is divided into thre different phases: 
+-STUDY PHASE
+-MATH PHASE
+-TEST PHASE.
+There is a small break following the math phase,
+and you may start study and test phases whenever you are ready.
+
+
+STUDY PHASE INSTRUCTIONS
+During each study phase you will sequentially be presented with 45 pairs of words.
+One word will be displayed on top,
+the other will be displayed on the bottom.
+
+The goal of the experiment is for you to remember that 
+these words were presented together.
+To better achieve this goal you should imagine these words
+in an interaction between them.
+
+For example if the words are:
+"DOG"
+"HOUSE"
+you could imagine a dog inside a doghouse.
+
+In the controller there are buttons "T" for TOP, and "B" for BOTTOM.
+While the pair of words are being displayed,
+you should pick the word that is subdominant in the interaction,
+i.e. the one that is encapsulated by the other.
+
+Using the above example, since a dog would go into a house, 
+you would press "T" for TOP.
+
+
+MATH PHASE INSTRUCTIONS
+Simple arithmetic math problems will be displayed on screen.
+Using the keyboard instead of the controller, you should press
+"T" for TRUE and "F" for FALSE based on whether the answer being
+displayed is correct. Answer as many of these math problems as you can.
+
+
+TEST PHASE INSTRUCTIONS
+Similarly to the study phase you will be presented with 60 pairs of words.
+45 of these pairs will come from the study phase, 15 will be NEW.
+Nevertheless, 15 of the pairs of words from the study phase will have
+their top words swapped between them, i.e. they will be REARRANGED.
+The other 30 pairs will remain exactly the SAME they were in the study phase.
+
+The controller has buttons "N" for NEW, "S" for SAME, and "R" for REARRANGED.
+Your goal in the test phase is to identify the correct category for each pair.
+While the pairs of words are being presented, you should press the button that
+corresponds to the category of the pair.
+
+Using the above example, if in the test phase you see:
+"DOG"
+"HOUSE"
+You should press "S" because that pair remained the SAME.
+
+If instead you see:
+"DOG"
+"PARK"
+You should press "R" because you saw the word "DOG",
+but remember that "DOG" was paired with "HOUSE", so 
+the pair of words must have been REARRANGED.
+
+If you see:
+"ELF"
+"SWEATER"
+You should press "N" because this pair of words hadn't
+been seen before, so it must be NEW.
+
+You may only press the buttons while the pairs of words are being displayed.
+Please make your best effort in not making guesses.
+
+If you have any questions, please ask before you begin.
+
+Press the SPACEBAR to continue when ready.

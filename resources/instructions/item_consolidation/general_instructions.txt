@@ -1,0 +1,30 @@
+Please scroll down through the instructions:
+ 
+                   INSTRUCTIONS
+ 
+In this experiment we are trying to see differences
+in brain activity related to the length of time between
+the formation of a memory and when it was recollected.
+ 
+In this experiment, you will first study two lists of
+words. In between the two study sections there will
+be a break.
+ 
+In each study section, words will be sequentially displayed
+on the screen for a few seconds. A distinc landscape
+will be displayed along with each word. The goal is for
+you to remember what particular landscape a word was
+presented with. In order to help you with this,
+you should imagine the item of each word within that
+landscape.
+ 
+There will be another break before the test section begins.
+ 
+In the test section, you will similarly be shown a list of
+words paired with a landscape. In this section you will be
+asked whether the landscape shown with the word is the
+same as when you first studied the word, whether it is 
+different, or whether the word shown is a new word 
+(a word you did not see in the study sections).
+ 
+Press the SPACEBAR to continue.

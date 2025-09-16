@@ -1,0 +1,15 @@
+*.orig
+*~
+*.py[co]
+\#*
+\.\#*
+build
+_build
+data
+*.slog
+*.so
+build-arch*
+dist
+MANIFEST
+.vscode
+smile.egg-info

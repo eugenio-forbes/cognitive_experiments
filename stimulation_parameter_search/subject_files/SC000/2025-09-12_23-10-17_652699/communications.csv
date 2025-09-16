@@ -1,0 +1,38 @@
+subject,session,type,data,sender,server_time,time,id
+SC000,2025-09-12_23-10-17_652699,CONNECTED,{'n_fields': 0},client,0,2025-09-12_23-10-19_540215,1
+,,CONNECTED_OK,{'n_fields': 0},server,,2025-09-12_23-10-19_541867,2
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX7_LX8', 'anode': '37', 'cathode': '38', 'amplitude': 2, 'frequency': 20, 'pulse_width': 150, 'duration': 500}",client,0,2025-09-12_23-15-03_850717,3
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX7_LX8', 'anode': '37', 'cathode': '38', 'amplitude': 2, 'frequency': 20, 'pulse_width': 150, 'duration': 500}",server,,2025-09-12_23-15-03_851959,4
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX1_LX2', 'anode': '31', 'cathode': '32', 'amplitude': 1, 'frequency': 50, 'pulse_width': 75, 'duration': 500}",client,0,2025-09-12_23-15-07_701496,5
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX1_LX2', 'anode': '31', 'cathode': '32', 'amplitude': 1, 'frequency': 50, 'pulse_width': 75, 'duration': 500}",server,,2025-09-12_23-15-07_702436,6
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX7_LX8', 'anode': '37', 'cathode': '38', 'amplitude': 4, 'frequency': 20, 'pulse_width': 150, 'duration': 500}",client,0,2025-09-12_23-15-11_494347,7
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX7_LX8', 'anode': '37', 'cathode': '38', 'amplitude': 4, 'frequency': 20, 'pulse_width': 150, 'duration': 500}",server,,2025-09-12_23-15-11_495934,8
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX1_LX2', 'anode': '31', 'cathode': '32', 'amplitude': 1, 'frequency': 50, 'pulse_width': 150, 'duration': 500}",client,0,2025-09-12_23-15-15_290131,9
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX1_LX2', 'anode': '31', 'cathode': '32', 'amplitude': 1, 'frequency': 50, 'pulse_width': 150, 'duration': 500}",server,,2025-09-12_23-15-15_292050,10
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX8_LX9', 'anode': '38', 'cathode': '39', 'amplitude': 1, 'frequency': 130, 'pulse_width': 150, 'duration': 500}",client,0,2025-09-12_23-15-19_145871,11
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX8_LX9', 'anode': '38', 'cathode': '39', 'amplitude': 1, 'frequency': 130, 'pulse_width': 150, 'duration': 500}",server,,2025-09-12_23-15-19_147143,12
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX5_LX6', 'anode': '35', 'cathode': '36', 'amplitude': 4, 'frequency': 20, 'pulse_width': 75, 'duration': 500}",client,0,2025-09-12_23-15-22_941603,13
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX5_LX6', 'anode': '35', 'cathode': '36', 'amplitude': 4, 'frequency': 20, 'pulse_width': 75, 'duration': 500}",server,,2025-09-12_23-15-22_942946,14
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX4_LX5', 'anode': '34', 'cathode': '35', 'amplitude': 2, 'frequency': 20, 'pulse_width': 75, 'duration': 500}",client,0,2025-09-12_23-15-26_806685,15
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX4_LX5', 'anode': '34', 'cathode': '35', 'amplitude': 2, 'frequency': 20, 'pulse_width': 75, 'duration': 500}",server,,2025-09-12_23-15-26_808077,16
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX4_LX5', 'anode': '34', 'cathode': '35', 'amplitude': 1, 'frequency': 130, 'pulse_width': 75, 'duration': 500}",client,0,2025-09-12_23-15-30_624124,17
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX4_LX5', 'anode': '34', 'cathode': '35', 'amplitude': 1, 'frequency': 130, 'pulse_width': 75, 'duration': 500}",server,,2025-09-12_23-15-30_625509,18
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX3_LX4', 'anode': '33', 'cathode': '34', 'amplitude': 4, 'frequency': 20, 'pulse_width': 75, 'duration': 500}",client,0,2025-09-12_23-15-34_523989,19
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX3_LX4', 'anode': '33', 'cathode': '34', 'amplitude': 4, 'frequency': 20, 'pulse_width': 75, 'duration': 500}",server,,2025-09-12_23-15-34_525380,20
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX6_LX7', 'anode': '36', 'cathode': '37', 'amplitude': 1, 'frequency': 20, 'pulse_width': 150, 'duration': 500}",client,0,2025-09-12_23-15-38_412455,21
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX6_LX7', 'anode': '36', 'cathode': '37', 'amplitude': 1, 'frequency': 20, 'pulse_width': 150, 'duration': 500}",server,,2025-09-12_23-15-38_413771,22
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX8_LX9', 'anode': '38', 'cathode': '39', 'amplitude': 2, 'frequency': 50, 'pulse_width': 150, 'duration': 500}",client,0,2025-09-12_23-15-42_254011,23
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX8_LX9', 'anode': '38', 'cathode': '39', 'amplitude': 2, 'frequency': 50, 'pulse_width': 150, 'duration': 500}",server,,2025-09-12_23-15-42_255457,24
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX2_LX3', 'anode': '32', 'cathode': '33', 'amplitude': 4, 'frequency': 20, 'pulse_width': 75, 'duration': 500}",client,0,2025-09-12_23-15-46_092385,25
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX2_LX3', 'anode': '32', 'cathode': '33', 'amplitude': 4, 'frequency': 20, 'pulse_width': 75, 'duration': 500}",server,,2025-09-12_23-15-46_093758,26
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX1_LX2', 'anode': '31', 'cathode': '32', 'amplitude': 1, 'frequency': 20, 'pulse_width': 75, 'duration': 500}",client,0,2025-09-12_23-15-49_867838,27
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX1_LX2', 'anode': '31', 'cathode': '32', 'amplitude': 1, 'frequency': 20, 'pulse_width': 75, 'duration': 500}",server,,2025-09-12_23-15-49_869164,28
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX8_LX9', 'anode': '38', 'cathode': '39', 'amplitude': 1, 'frequency': 50, 'pulse_width': 75, 'duration': 500}",client,0,2025-09-12_23-15-53_673682,29
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX8_LX9', 'anode': '38', 'cathode': '39', 'amplitude': 1, 'frequency': 50, 'pulse_width': 75, 'duration': 500}",server,,2025-09-12_23-15-53_675070,30
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX6_LX7', 'anode': '36', 'cathode': '37', 'amplitude': 4, 'frequency': 20, 'pulse_width': 75, 'duration': 500}",client,0,2025-09-12_23-15-57_449761,31
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX6_LX7', 'anode': '36', 'cathode': '37', 'amplitude': 4, 'frequency': 20, 'pulse_width': 75, 'duration': 500}",server,,2025-09-12_23-15-57_451156,32
+SC000,2025-09-12_23-10-17_652699,STIMULATION_CONFIGURATION,"{'n_fields': 7, 'label': 'LX3_LX4', 'anode': '33', 'cathode': '34', 'amplitude': 1, 'frequency': 20, 'pulse_width': 150, 'duration': 500}",client,0,2025-09-12_23-16-01_260926,33
+,,STIMULATION_CONFIGURATION_OK,"{'n_fields': 7, 'label': 'LX3_LX4', 'anode': '33', 'cathode': '34', 'amplitude': 1, 'frequency': 20, 'pulse_width': 150, 'duration': 500}",server,,2025-09-12_23-16-01_262290,34
+SC000,2025-09-12_23-10-17_652699,SHAM,{'n_fields': 0},client,0,2025-09-12_23-16-05_076956,35
+SC000,2025-09-12_23-10-17_652699,END,{'n_fields': 0},client,0,2025-09-12_23-17-31_536866,36
+SC000,2025-09-12_23-10-17_652699,STOP_STIMULATION,{'n_fields': 0},client,0,2025-09-12_23-17-31_536071,36

@@ -1,0 +1,1 @@
+{"orient_duration": 2000, "image_duration": 2000, "short_blank_duration": 2000, "long_blank_duration": 4000, "intersequence_interval": 3000, "intertrial_interval": 3000, "preresponse_pause": 3000, "standard_delay": 20000, "deviant_delay": 10000, "p_standard_delay": 0.8}
