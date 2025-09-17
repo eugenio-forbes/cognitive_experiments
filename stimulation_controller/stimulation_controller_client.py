@@ -288,7 +288,7 @@ def command_enter_note():
         writer = DictWriter(file_handle, fieldnames=notes_fieldnames)
         writer.writerow(note_entry)
     note_id += 1
-    note_entry_box.delete(1.0, END)
+    note_entry_box.delete(1.0, tk.END)
 
 
 ############################## Other functions #######################################
