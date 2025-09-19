@@ -30,14 +30,14 @@ This project provides Python-based tools for collecting cognitive task performan
 4) Use Homebrew to install libusb:
 <pre>brew install libusb</pre>
 
-5) Navigate to /cognitive_experiments/resources/smile-master/ and complete SMILE installation:
+5) Navigate to "/cognitive_experiments/resources/smile-master/" and complete SMILE installation:
 <pre>cd /cognitive_experiments/resources/smile-master/</pre>
 <pre>python -m pip install .</pre>
 
-6) Copy pennsyncbox source code file to your environment's site-packages:
+6) Copy "pennsyncbox" source code file to your environment's "site-packages" folder:
 <pre>cp /cognitive_experiments/resources/pennsyncbox/_pennsyncbox.cpython-36m-darwin.so /opt/anaconda3/envs/smile/lib/python3.6/site-packages/</pre>
 
-7) Update default shell configuration. Edit .bashrc or .zshrc to include the following line:
+7) Update your default shell configuration. Edit .bashrc or .zshrc to include the following line:
 <pre>export PYTHONPATH="/path/to/cognitive_experiments/resources/smile-master/:$PYTHONPATH"
 </pre>
 
