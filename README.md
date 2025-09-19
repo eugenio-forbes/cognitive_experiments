@@ -2,7 +2,7 @@
 **Code for data collection in performance of cognitive tasks written for Texas Computational Memory Lab.**
 
 ## Overview:
--This project provides Python-based tools for collecting cognitive task performance data, developed for use in electrophysiological studies of episodic memory. It is tailored for cognitive electrophysiologists working with deep brain stimulation research. This project integrates Blackrock Neurotech hardware through client-server communication and works seamlessly with the University of Pennsylvania's [Elemem](https://github.com/pennmem/elemem) software.
+This project provides Python-based tools for collecting cognitive task performance data, developed for use in electrophysiological studies of episodic memory. It is tailored for cognitive electrophysiologists working with deep brain stimulation research. This project integrates Blackrock Neurotech hardware through client-server communication and works seamlessly with the University of Pennsylvania's [Elemem](https://github.com/pennmem/elemem) software.
 
 
 ## Features:
