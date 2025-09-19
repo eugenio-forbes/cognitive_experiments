@@ -15,7 +15,7 @@ This project provides Python-based tools for collecting cognitive task performan
 ## Tech Stack:
 - **Platform**: macOS (required for PennSyncBox compatibility).
 - **Languages**: Python, and MATLAB (for Blackrock Neurotech API).
-- **Key Package**: Experiments are coded using [SMILE](https://github.com/compmem/smile). Read [documentationt](https://smile-docs.readthedocs.io/en/latest/) for more information.
+- **Key Package**: Experiments are coded using [SMILE](https://github.com/compmem/smile). Read [documentation](https://smile-docs.readthedocs.io/en/latest/) for more information.
 
 
 ## Installation:
