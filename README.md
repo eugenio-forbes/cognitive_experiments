@@ -18,27 +18,26 @@ Key package: Experiments were coded using [SMILE](https://github.com/compmem/smi
 **Installation**:
 1) Install [Anaconda](https://anaconda.org/).
 2) Import Anaconda environment ("smile") from provided .yml file.
-<pre> ```conda env create -f /path/to/cognitive_experiments/resources/smile-conda-environment.yml``` </pre>
+<pre>conda env create -f /path/to/cognitive_experiments/resources/smile-conda-environment.yml</pre>
 3) Install Homebrew
-<pre> ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-``` </pre>
+<pre>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</pre>
 4) Use Homebrew to install oldest version of libusb
-<pre> ```brew install libusb``` </pre>
+<pre>brew install libusb</pre>
 5) Navigate to /cognitive_experiments/resources/smile-master/ and complete SMILE installation
-<pre> ```python -m pip install .``` </pre>
+<pre>python -m pip install .</pre>
 6) Save a copy of /cognitive_experiments/resources/pennsyncbox/_pennsyncbox.cpython-36m-darwin.so to /opt/anaconda3/envs/smile/lib/python3.6/site-packages/
 7) Update default shell configuration. Edit .bashrc or .zshrc to include the following line:
-<pre> ```export PYTHONPATH="/path/to/cognitive_experiments/resources/smile-master/:$PYTHONPATH"
-``` </pre>
+<pre>export PYTHONPATH="/path/to/cognitive_experiments/resources/smile-master/:$PYTHONPATH"
+</pre>
 
 **Usage**:
 1) Navigate to cognitive_experiments/desired_experiment_folder/
 2) Might need to source shell configuration:
-<pre> ```source ~/.zshrc``` </pre>
+<pre>source ~/.zshrc</pre>
 3) Activate "smile" Anaconda environment:
-<pre> ```conda activate smile``` </pre>
+<pre>conda activate smile</pre>
 4) Launch experiment:
-<pre> ```python3 desired_experiment.py``` </pre>
+<pre>python3 desired_experiment.py</pre>
 
 **Optional**:
 1) Edit configurations in confuration.py to adjust experiment controls to keyboard/controller used.
