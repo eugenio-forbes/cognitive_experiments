@@ -1,2 +1,44 @@
 # cognitive_experiments
 Code for data collection in performance of cognitive tasks written for Texas Computational Memory Lab.
+
+**Overview**:
+This project provides Python-based tools for collecting cognitive task performance data, developed for use in electrophysiological studies of episodic memory. It is tailored for cognitive electrophysiologists working with deep brain stimulation research. This project integrates Blackrock Neurotech hardware through client-server communication and coalesces with University of Pennsylvania's [Elemem](https://github.com/pennmem/elemem) software.
+
+**Features**:
+- Trial Randomization. Ensures that the trial list of every experiment session is uniquely randomized to avoid confounds.
+- Checkpoint System. Necessary interruptions for provision of patient care are a frequent obstacle in performing research in a hospital setting. Code provides the flexibility of exiting a session and resuming from last completed trial. 
+- Client-Server Communication. Allows for integration with Blackrock Neurotech hardware and Elemem software.
+- Data Alignment. Introduces client-server communication timing and new protocol for delivery of sync pulses to improve reliability, accuracy, and reliability of automated alignment of behavioral data to EEG data.
+
+**Tech Stack**:
+Platform: macOS (for compatibility with PennSyncBox source code).
+Language: Python.
+Key package: Experiments were coded using [SMILE](https://github.com/compmem/smile). Read [documentationt](https://smile-docs.readthedocs.io/en/latest/) for more information.
+
+**Installation**:
+1) Install [Anaconda](https://anaconda.org/).
+2) Import Anaconda environment ("smile") from provided .yml file.
+<pre> ```conda env create -f /path/to/cognitive_experiments/resources/smile-conda-environment.yml``` </pre>
+3) Install Homebrew
+<pre> ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+``` </pre>
+4) Use Homebrew to install oldest version of libusb
+<pre> ```brew install libusb``` </pre>
+5) Navigate to /cognitive_experiments/resources/smile-master/ and complete SMILE installation
+<pre> ```python -m pip install .``` </pre>
+6) Save a copy of /cognitive_experiments/resources/pennsyncbox/_pennsyncbox.cpython-36m-darwin.so to /opt/anaconda3/envs/smile/lib/python3.6/site-packages/
+7) Update default shell configuration. Edit .bashrc or .zshrc to include the following line:
+<pre> ```export PYTHONPATH="/path/to/cognitive_experiments/resources/smile-master/:$PYTHONPATH"
+``` </pre>
+
+**Usage**:
+1) Navigate to cognitive_experiments/desired_experiment_folder/
+2) Might need to source shell configuration:
+<pre> ```source ~/.zshrc``` </pre>
+3) Activate "smile" Anaconda environment:
+<pre> ```conda activate smile``` </pre>
+4) Launch experiment:
+<pre> ```python3 desired_experiment.py``` </pre>
+
+**Optional**:
+1) Edit configurations in confuration.py to adjust experiment controls to keyboard/controller used.
