@@ -41,3 +41,8 @@ Key package: Experiments were coded using [SMILE](https://github.com/compmem/smi
 
 **Optional**:
 1) Edit configurations in confuration.py to adjust experiment controls to keyboard/controller used.
+
+**Future Improvements**:
+-Logging every single response attempt.
+-Room for further expanding and curating word pools/images.
+-Currently "theta burst" stimulation is delivered using a for loop. Blackrock's Matlab API allows for programming of complex stimulation patterns without the need of a loop. Using this would enable early termination of trial once subject response is submitted.
